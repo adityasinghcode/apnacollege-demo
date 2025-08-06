@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git Repository
-Author-Aditya Singh
-
+Owner-Aditya Singh
+This is my first repo
